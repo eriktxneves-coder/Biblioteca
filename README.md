@@ -38,3 +38,17 @@ Usuario ADMIN
 <img width="636" height="441" alt="image" src="https://github.com/user-attachments/assets/da99b31d-3276-47ea-954d-7a742fd3fc7d" />
 
 <img width="823" height="717" alt="image" src="https://github.com/user-attachments/assets/6f89dd08-8588-4a4f-bcb2-f4c4faf488c7" />
+
+
+Banco de dados 
+Criptografia de senha
+
+<img width="450" height="137" alt="image" src="https://github.com/user-attachments/assets/7a0386e0-d9ab-4256-b8fd-a9f5c1a7da0b" />
+
+Registro de alugues de livro 
+
+<img width="616" height="969" alt="image" src="https://github.com/user-attachments/assets/f40e4031-5744-4a84-b106-0db73718e348" />
+
+quantidade de livros 
+
+<img width="639" height="301" alt="image" src="https://github.com/user-attachments/assets/016c22df-1c89-4627-904d-60f991382cef" />
