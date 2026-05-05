@@ -45,7 +45,7 @@ Criptografia de senha
 
 <img width="450" height="137" alt="image" src="https://github.com/user-attachments/assets/7a0386e0-d9ab-4256-b8fd-a9f5c1a7da0b" />
 
-Registro de alugues de livro 
+Registro de alugues de livros
 
 <img width="616" height="969" alt="image" src="https://github.com/user-attachments/assets/f40e4031-5744-4a84-b106-0db73718e348" />
 
