@@ -3,18 +3,15 @@ um projeto simulando uma biblioteca onde pode alugar livros e devolver.
 
 projeto possui
 cadastro e login
-os cadastro e login sao limitado onde apenas login e senha com 4 ou mais caracterio sao aceitos. abaixo de 4 n consegue fazer cadastro
-criptografia de senha com (HASH com BCRYPT)
-2 modelos de usuario ( ADMIN e Normal)
-usuario ADMIN tem controle total do app, Onde pode adicionar livro e remover livro e alugar livro e devolver.
-usuario NORMAL apenas pode alugar livro e devolver
-os livros adicionado eles sao em nuven.
-para adicionar livro precisa entra no site.
-https://cloudinary.com
-fazer upload das fotos e cadastrar os livros com a URL
-e adiciona o nome no livro a foto do livro com URL e quantos livros vao ser adicionado.
-quando for deletar livro vai deletar 1 por vez. e se o livro tiver alugado, o livro nao pode ser deletado.
-quando for alugar livro vai mostra quantos existe no banco de dados. se todos os livros tiver alugado ele vai fiva indisponivel pra alugar.
+Os cadastro e login são limitado onde apenas login e senha com 4 ou mais caracterio são aceitos. Abaixo de 4 não consegue fazer cadastro. 
+
+Criptografia de senha com (HASH com BCRYPT) 2 modelos. 
+
+Usuario ( ADMIN e Normal) usuario ADMIN tem controle total do app, Onde pode adicionar livro e remover livro e alugar livro e devolver. 
+
+Usuario NORMAL apenas pode alugar livro e devolver os livros. 
+
+Adicionado livros sao em nuven. para adicionar livro precisa entra no site. https://cloudinary.com fazer upload das fotos e cadastrar os livros com a URL e adiciona o nome no livro a foto do livro com URL e quantos livros vao ser adicionado. quando for deletar livro vai deletar 1 por vez. e se o livro tiver alugado, o livro nao pode ser deletado. quando for alugar livro vai mostra quantos existe no banco de dados. se todos os livros tiver alugado ele vai fica indisponivel pra alugar.
 
 Usuario NORMAL
 <img width="554" height="376" alt="image" src="https://github.com/user-attachments/assets/e26eb458-5486-482f-9be1-2c258c618299" />
