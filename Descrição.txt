@@ -1,0 +1,35 @@
+link de onde pega capa para os livros. 
+da upload das fotos para o site.
+coloca o link da foto da capa quando for adicionar um livro
+https://cloudinary.com
+
+
+cadastro esta funcionando, pode criar conta.
+senha sao cryptada (HASH com BCRYPT)
+
+--------------|
+conta ADMIN   |
+login: erik   |
+senha: 123    |
+              |
+conta Normal  |
+login: jhon   |
+senha: 1234   |
+--------------|
+              |
+Menu ADMIN    |
+Alugar livro  | 
+devolver livro|
+ADD livro     |
+deletar livro |
+trocar usuario|
+sair          |
+              |
+--------------|
+              |
+Menu Normal   |
+Alugar livro  |
+devolver livro|
+troca usuario |
+sair          |
+--------------|
