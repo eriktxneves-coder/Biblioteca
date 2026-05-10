@@ -1,5 +1,3 @@
-from os import name
-
 import customtkinter as ctk
 #from login import verificar_login
 import sqlite3
